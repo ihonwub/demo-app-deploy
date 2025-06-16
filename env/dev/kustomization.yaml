@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/ihonwub/demo-app
-  newTag: latest
+  newTag: f46240914b6fb4df42d2d8163c5be542e01207e7
