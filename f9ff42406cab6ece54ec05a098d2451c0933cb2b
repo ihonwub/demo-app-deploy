@@ -1,1 +1,3 @@
 image: ghcr.io/ihonwub/demo-app:6320253097b6b33da6819373c0b74a97e0ba3baa
+
+env: stage
